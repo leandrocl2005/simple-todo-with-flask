@@ -45,6 +45,7 @@ cd simple-todo-with-flask
 virtualenv --python=python3.6 myvenv
 source myvenv/bin/activate
 pip install flask
+pip install Flask-SQLAlchemy
 ```
 - Na aba *web* escolha *add a new app*
 - Escolha *Next*, *Manual configuration*, *Python 3.6*, *Next* nessa ordem
